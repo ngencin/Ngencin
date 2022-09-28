@@ -9,3 +9,11 @@
 - 🤔 I’m looking for help with help me progress in this domain
 - 📫 How to reach me: niademe@gmail.com
 
+<br>
+<h4>LANGUAGES 🧰</h4>
+<br>
+
+
+
+[![My Skills](https://skills.thijs.gg/icons?i=css,html,sass&theme=light)](https://skills.thijs.gg)
+
