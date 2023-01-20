@@ -18,7 +18,7 @@
 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=css,html,sass&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=css,html,sass,js&theme=light)](https://skills.thijs.gg)
 
 <br>
 <h4>CONNECT WITH ME 🔗<h4>
@@ -26,8 +26,5 @@
 <div class="icons">
   <a href="https://www.linkedin.com/in/niademe-gencin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/Gaouaouran">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
